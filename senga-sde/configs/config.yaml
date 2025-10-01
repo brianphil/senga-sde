@@ -1,0 +1,4 @@
+# Example configuration for senga-sde
+app:
+  name: senga-sde
+  version: 0.1.0
